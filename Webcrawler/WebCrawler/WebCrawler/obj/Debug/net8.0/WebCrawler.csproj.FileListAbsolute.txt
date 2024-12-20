@@ -1,0 +1,15 @@
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\bin\Debug\net8.0\WebCrawler.exe
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\bin\Debug\net8.0\WebCrawler.deps.json
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\bin\Debug\net8.0\WebCrawler.runtimeconfig.json
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\bin\Debug\net8.0\WebCrawler.dll
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\bin\Debug\net8.0\WebCrawler.pdb
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.AssemblyInfo.cs
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.dll
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\refint\WebCrawler.dll
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.pdb
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.genruntimeconfig.cache
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\ref\WebCrawler.dll
+C:\Users\Ágatha Almeida\source\repos\WebCrawler\WebCrawler\obj\Debug\net8.0\WebCrawler.csproj.AssemblyReference.cache

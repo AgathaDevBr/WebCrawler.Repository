@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|c:\\users\\\u00E1gatha almeida\\downloads\\webcrawler 1\\webcrawler\\webcrawler\\context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|c:\\users\\\u00E1gatha almeida\\downloads\\webcrawler 1\\webcrawler\\webcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|c:\\users\\\u00E1gatha almeida\\downloads\\webcrawler 1\\webcrawler\\webcrawler\\services\\webcrawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\services\\webcrawlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|c:\\users\\\u00E1gatha almeida\\downloads\\webcrawler 1\\webcrawler\\webcrawler\\entities\\executioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\entities\\executioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|c:\\users\\\u00E1gatha almeida\\downloads\\webcrawler 1\\webcrawler\\webcrawler\\entities\\proxyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E976E19D-57BB-45CC-96DC-FA9C40B1A235}|WebCrawler\\WebCrawler.csproj|solutionrelative:webcrawler\\entities\\proxyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationBdContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Context\\ApplicationBdContext.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Context\\ApplicationBdContext.cs",
+              "ToolTip": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Context\\ApplicationBdContext.cs",
+              "RelativeToolTip": "WebCrawler\\Context\\ApplicationBdContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:29:16.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExecutionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Entities\\ExecutionInfo.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Entities\\ExecutionInfo.cs",
+              "ToolTip": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Entities\\ExecutionInfo.cs",
+              "RelativeToolTip": "WebCrawler\\Entities\\ExecutionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:39:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProxyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Entities\\ProxyInfo.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Entities\\ProxyInfo.cs",
+              "ToolTip": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Entities\\ProxyInfo.cs",
+              "RelativeToolTip": "WebCrawler\\Entities\\ProxyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:39:22.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Program.cs",
+              "RelativeToolTip": "WebCrawler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:36:30.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebCrawlerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Services\\WebCrawlerService.cs",
+              "RelativeDocumentMoniker": "WebCrawler\\Services\\WebCrawlerService.cs",
+              "ToolTip": "C:\\Users\\\u00C1gatha Almeida\\Downloads\\Webcrawler 1\\WebCrawler\\WebCrawler\\Services\\WebCrawlerService.cs",
+              "RelativeToolTip": "WebCrawler\\Services\\WebCrawlerService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:17:32.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
